@@ -1,0 +1,20 @@
+LOOPING
+
+pas d'accent ( caractere speciaux)
+Pas de majuscules
+pas d'espaces (utiliser underscore)
+
+les données qui sont repeté ne sont pas stocké au meme endroit
+
+http://www.synonymo.fr/synonyme/verbes
+
+0,n cardinalités
+1;1
+
+mcd entités
+mld table
+
+2 entités ne peuvent pas avoir le meme nom et les relations jamais le meme verbe
+
+foreign key:
+attributs au sein d'un table qui fait reference a une autre table au sein de laquelle elle est lie.
